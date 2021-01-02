@@ -10,7 +10,7 @@ CyberInfoBar is a macOS style information bar with interactive menus and status 
 
 - Customizable
 
-- Multilanguage support
+- Multilanguage support(Not Completed)
 
 # Warning !
 
