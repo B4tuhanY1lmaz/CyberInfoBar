@@ -14,6 +14,6 @@ CyberInfoBar is a macOS style information bar with interactive menus and status 
 
 # Warning !
 
-This skin still under development if you see any issue please share it from #bug_reporting channel on discord server. 
+This skin still under development and not tested everything yet if you see any bug or issue please report it from our Discord server.
 
 Join our Discord Server : https://discord.com/invite/72GZGN3
